@@ -14,7 +14,9 @@ avatar: https://avatars2.githubusercontent.com/u/38106487?s=400&v=4
 #
 # Flags below are optional
 #
+# Build settings
 
+theme: minima
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
