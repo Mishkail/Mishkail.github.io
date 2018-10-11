@@ -16,7 +16,7 @@ avatar: https://avatars2.githubusercontent.com/u/38106487?s=400&v=4
 #
 # Build settings
 
-theme: minimal
+theme: minima
 
 # Includes an icon in the footer for each username you enter
 footer-links:
